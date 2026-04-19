@@ -22,3 +22,16 @@ This project is a real-time speech recognition system that listens to ambient au
 3. If a keyword is detected:
    - A voice alert is triggered
    - A popup window is displayed
+
+## 📸 Example Output
+
+When a keyword is detected:
+
+- Console output:
+  "🔔 Se dijo: radar"
+
+- Voice alert:
+  "Atención, dijeron radar"
+
+- Visual alert:
+  Popup window with warning message
